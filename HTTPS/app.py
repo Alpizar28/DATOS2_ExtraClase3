@@ -1,4 +1,4 @@
-from flask import Flask, request
+lfrom flask import Flask, request
 from datetime import datetime
 import random
 
@@ -17,7 +17,7 @@ def inicio():
 
     saludo_de_retorno = ""
     if request.method == "POST" and "saludo" in request.form:
-        saludo_de_retorno = "<p>¡Qué gusto saludarte también!</p>" #mensaje de retorno del botón
+        saludo_de_retorno = "<p>¡Hello There!</p>" #mensaje de retorno del botón
 
     return f"""
     <html>
