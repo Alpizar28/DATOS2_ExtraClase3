@@ -1,6 +1,6 @@
-# TLS Chat - Ejemplos en Python
+9# TLS Chat - Ejemplos en Python
 
-Este proyecto contiene un ejemplo de chat bidireccional seguro usando TLS (Python puro). A continuación encontrarás las instrucciones para configurar y ejecutar las aplicaciones servidor y cliente.
+Esta carpeta contiene un ejemplo de chat bidireccional seguro usando TLS con Python. A continuación encontrarás las instrucciones para configurar y ejecutar las aplicaciones servidor y cliente.
 
 ---
 
@@ -71,26 +71,3 @@ Esto creará `cert.pem` y `key.pem`.
 
 ---
 
-## Limpieza (opcional)
-
-Si deseas eliminar archivos innecesarios:
-
-```bash
-# Borrar ejemplo básico
-rm -r basic/
-# Borrar cliente GUI si existiera
-rm gui_client.py
-```
-
----
-
-## Control de versiones con Git (opcional)
-
-Si usas Git, recuerda commitear los cambios:
-
-```bash
-git add .
-git commit -m "Agregar ejemplo de chat TLS y README"
-```
-
-¡Listo! Ahora tienes un chat seguro sobre TLS en Python. Cualquier duda, abre un issue o contáctame.
