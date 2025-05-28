@@ -1,7 +1,7 @@
 ## TAREA EXTRACLASE 3 - ALGORITMOS Y ESTRUCTURAS DE DATOS II - ITCR
 
 # Estudiantes 
-Jafet Díaz - Jose Alpizar - Adrian Pereira
+Jafet Díaz (2023053249) - Jose Alpizar (2024088025) - Adrian Pereira (2024138584)
 
 # Guia
 
